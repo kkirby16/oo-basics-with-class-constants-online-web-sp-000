@@ -19,6 +19,4 @@ class Shoe
     @brand = brand 
     BRANDS << brand
   end
-    binding.pry
-
 end
